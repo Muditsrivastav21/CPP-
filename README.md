@@ -1,2 +1,2 @@
-# CPP-
-In this repository I have the code written in my college lab.
+# CPP
+In this repository I have the codes written in my college lab.
